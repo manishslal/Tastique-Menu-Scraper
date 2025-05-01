@@ -1,0 +1,82 @@
+# INSTRUCTIONS - READ FIRST BEFORE EDITING THIS TEXT FILE
+# All comments should be marked with '#' at the front and will be ignored in the code
+# The State should be at the top of each group, with the stores and links underneath
+# The Store Name is retrieved from the Website, it is only here for clarity
+# All lines that are either BLANK or starting with '#' are ignored
+
+
+California
+Balboa - https://toastique.orderexperience.net/6446a2fd4e809fbad50a0b10/menu
+Bakersfield - https://toastique.orderexperience.net/657ca6fb15d494caee082bf6/menu
+Danville - https://toastique.orderexperience.net/66e985460f925a7bc8067878/menu
+Sarasota - https://toastique.orderexperience.net/6446a3a63eebdddd850b61a2/menu
+Sunset - https://toastique.orderexperience.net/66969a2d35a18c00f5027d69/menu
+
+Colorado
+COS Downtown - https://toastique.orderexperience.net/635844f01f2f8dcbdc0a64c6/menu/
+COS Ridgeline - https://toastique.orderexperience.net/61c4bb5d95b7014d548b4590/menu
+Denver - https://toastique.orderexperience.net/6515dbcfe61b222ad2064fbd/menu
+Greenwood Village - https://toastique.orderexperience.net/62cf05053027019e10092d20/menu
+Highlands Ranch - https://toastique.orderexperience.net/61c4bb5d95b7014d548b4591/menu
+
+Washington DC
+Wharf - https://toastique.orderexperience.net/61c4bb5a95b7014d548b4589/menu
+Navy Yard - https://toastique.orderexperience.net/61c4bb5a95b7014d548b458a/menu
+Dupont - https://toastique.orderexperience.net/61c4bb5b95b7014d548b458c/menu
+Union Market - https://toastique.orderexperience.net/61c4bb5b95b7014d548b458e/menu
+
+New Jersey
+Chatham - https://toastique.orderexperience.net/6446a3e3849f9c2ea00ad778/menu
+Hoboken - https://toastique.orderexperience.net/62a0c7215aa65d1cb1685c50/menu
+Ridgewood - https://toastique.orderexperience.net/66dfc5bedb3eba52990535fa/menu
+
+Virginia
+Alexandria - https://toastique.orderexperience.net/61c4bb5a95b7014d548b458b/menu
+Clarendon - https://toastique.orderexperience.net/65b80a072f34e84b1f048a77/menu
+Chesapeake - https://toastique.orderexperience.net/6515dc60dd0a8feecf0b0dc0/menu
+
+Maryland
+Annapolis - https://toastique.orderexperience.net/65ea27519b84ec7d0c0e4f49/menu
+Columbia - https://toastique.orderexperience.net/61c4bcb1bc9f306aad0d30ea/menu
+Owings Mills - https://toastique.orderexperience.net/645c0588d5d70599dd049938/menu
+
+Florida
+Orlando - https://toastique.orderexperience.net/62cf43f2eafe19fab306dc73/menu
+Water Street - https://toastique.orderexperience.net/65159b32d20891ac060113ff/menu
+
+Texas
+Addison - https://toastique.orderexperience.net/657ca748bd682a8c6c0330e8/menu
+Flower Mound - https://toastique.orderexperience.net/66e98398d9077504ef00a840/menu
+
+Georgia
+Midtown Atlanta - https://toastique.orderexperience.net/66969ab43810dd7d4f0888e8/menu
+
+Kansas
+Wichita - https://toastique.orderexperience.net/66969997acda6fae810f7a2b/menu
+
+Michigan
+Ann Arbor - https://toastique.orderexperience.net/664e20213afd7f54ba0dd63b/menu
+
+Minnesota
+Wayzata - https://toastique.orderexperience.net/66969b095c9ae086cf001db7/menu/
+
+Nevada
+Henderson - https://toastique.orderexperience.net/66e98485db85657c540c0947/menu
+
+New York
+New Rochelle - https://toastique.orderexperience.net/671bb52f1f475e24920b8a68/menu
+
+North Carolina
+Charlotte - https://toastique.orderexperience.net/663269c0456b82112809df59/menu
+
+Tennessee
+Nashville - https://toastique.orderexperience.net/664e1fe0e1f94090520cc576/menu
+
+Utah
+St. George - https://toastique.orderexperience.net/6318dcdfc705a95906059463/menu
+
+# Stores that are not yet open
+# Anthem Row (DC) - https://toastique.orderexperience.net/67993c4a336b8dd8840c537d/menu
+# Bryant Park (NY) - https://toastique.orderexperience.net/67a3c12881358a08870a1a4a/menu
+# Mt. Lebanon (PA) - https://toastique.orderexperience.net/67a3c19d56d1ea7b5f05ad55/menu
+# Stone Harbor (NJ) - https://toastique.orderexperience.net/61c4bb5b95b7014d548b458d/menu
