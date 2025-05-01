@@ -1,0 +1,8 @@
+# Required Python libraries for the Toastique Menu Scraper
+
+openpyxl
+pytz
+selenium
+beautifulsoup4
+pandas # Added based on the job tracker script context, remove if not used in the scraper
+webdriver-manager # Optional: Recommended for easier ChromeDriver management
